@@ -12,5 +12,4 @@ to find out with the help of machine learning which
 Oscar's award.
 
 #video presentation:
-
-This site was built using [Link](https://youtu.be/bcHRrCGBaGU).
+Video [Link](https://youtu.be/bcHRrCGBaGU).
