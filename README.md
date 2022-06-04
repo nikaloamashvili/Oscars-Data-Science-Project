@@ -24,8 +24,9 @@ Video [Link]([https://youtu.be/bcHRrCGBaGU](https://github.com/nikaloamashvili/O
 
 ## summery:
 We wanted to see if we can detect which of the movies on imdb site will be a nominee of best picture film Oscar award.  
-We should here that with a good info crewing and a good data cleaning and handling and use of random forest algorithm 
+We should here that with a good data crewing and a good data cleaning and handling and use of random forest algorithm 
 we can predict with a good assurance which movie will be a nominee of best picture film Oscar award with 0.828 f1 macro score.
-Our conclusion is that a machine can not know for sure who will be the Oscar nominees, but the machine does a good job of discovering most of the films that will be Oscar nominees for the best picture of the year
 ![image](https://user-images.githubusercontent.com/76586954/172000000-f2fe43eb-ce01-4fa9-9dc4-af48d62d69c1.png)
+
+Our conclusion is that a machine can not know for sure who will be the Oscar nominees, but the machine does a good job of discovering most of the films that will be Oscar nominees for the best picture of the year
 
